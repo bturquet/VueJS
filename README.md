@@ -1,6 +1,6 @@
-# projet-test
+# VueJS Sample App
 
-> Baptiste Vue.js project
+> Sample App with VueJS
 
 ## Build Setup
 
